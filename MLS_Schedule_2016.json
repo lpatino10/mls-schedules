@@ -4605,5 +4605,500 @@
         "day": 30
       }
     },
+    {
+      "home": "New York Red Bulls",
+      "away": "Philadelphia Union",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "New England Revolution",
+      "away": "Sporting Kansas City",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "Columbus Crew SC",
+      "away": "Chicago Fire",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "Toronto FC",
+      "away": "D.C. United",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "FC Dallas",
+      "away": "LA Galaxy",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 9,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "Colorado Rapids",
+      "away": "Portland Timbers",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 9,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Real Salt Lake",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 10,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 1
+      }
+    },
+    {
+      "home": "Orlando City SC",
+      "away": "Montreal Impact",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 1,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 2
+      }
+    },
+    {
+      "home": "Vancouver Whitecaps FC",
+      "away": "Seattle Sounders FC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 8,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 2
+      }
+    },
+    {
+      "home": "Houston Dynamo",
+      "away": "Colorado Rapids",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 8,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 8
+      }
+    },
+    {
+      "home": "Seattle Sounders FC",
+      "away": "Houston Dynamo",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 10,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 12
+      }
+    },
+    {
+      "home": "Chicago Fire",
+      "away": "Columbus Crew SC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 8,
+        "minute": 30
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 13
+      }
+    },
+    {
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 9,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 13
+      }
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "Orlando City SC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 5,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew SC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 5,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "D.C. United",
+      "away": "New York City FC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 5,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Montreal Impact",
+      "away": "Toronto FC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 5,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Chicago Fire",
+      "away": "New England Revolution",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 5,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Real Salt Lake",
+      "away": "Sporting Kansas City",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Portland Timbers",
+      "away": "Colorado Rapids",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "FC Dallas",
+      "away": "Seattle Sounders FC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Vancouver Whitecaps FC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Houston Dynamo",
+      "away": "LA Galaxy",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 7,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 16
+      }
+    },
+    {
+      "home": "Toronto FC",
+      "away": "Chicago Fire",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Vancouver Whitecaps FC",
+      "away": "Portland Timbers",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Orlando City SC",
+      "away": "D.C. United",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Sporting Kansas City",
+      "away": "San Jose Earthquakes",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "LA Galaxy",
+      "away": "FC Dallas",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Seattle Sounders FC",
+      "away": "Real Salt Lake",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "New York Red Bulls",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "New York City FC",
+      "away": "Columbus Crew SC",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    },
+    {
+      "home": "New England Revolution",
+      "away": "Montreal Impact",
+      "homeScore": null,
+      "awayScore": null,
+      "time": {
+        "hour": 4,
+        "minute": 0
+      },
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 23
+      }
+    }
   ]
 }
